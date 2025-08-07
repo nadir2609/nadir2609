@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects related to Data Science and Data Analysis<br>⚡ Fun facts - I love playing football and chess
+🔭 I’m currently working on projects related to Data Science and Machine Learning<br>⚡ Fun facts - I love playing football and chess
 
 
 ## 🌐 Socials:
