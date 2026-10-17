@@ -1,60 +1,74 @@
-# 🌌 About Me
-Hi, I’m **Nadir**! 👋
+# Hi, I'm Nadir 👋
 
-I'm a University student majoring in **Computer Science** with a deep passion for **AI** and **ML**.
+**AI Engineer** building AI apps and automations that do real work: vision pipelines, RAG assistants, voice agents and workflows that run on their own.
 
-
----
-
-## 🛠️ Tech Stack
-## 💻 Languages
- 
- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+Based in Baku, Azerbaijan · Computer Science at UFAZ · Open to freelance and full-time work
 
 ---
 
-## ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+### What I build
 
-
----
-
-## 🗄️ Databases & Servers
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+- **AI apps**: full-stack products with LLMs and vision models behind them, from upload to report
+- **AI automation**: agents that read email, scrape the web, watch job boards and act without a human in the loop
+- **RAG and assistants**: grounded Q&A over documents, videos and research sources, with citations
+- **Speech AI**: Azerbaijani text-to-speech and speech recognition, fine-tuned on a single consumer GPU
 
 ---
 
-## 🤖 Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white)
+### Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**ClaimLens**](https://github.com/nadir2609/claimlens) | Insurance damage estimator. Upload car photos, get damaged regions drawn on the images, a severity score, a repair estimate priced from live parts listings, a fraud risk score and a recommended action. | TypeScript, React, Express, Gemini / Claude vision, Firecrawl |
+| [**AzVoice**](https://github.com/nadir2609/AzVoice) | StyleTTS2 fine-tuned on Azerbaijani speech, plus a voice assistant you can talk to: Whisper hears you, Gemini answers, the custom voice speaks. | Python, PyTorch, StyleTTS2, Whisper, Gemini |
+| [**AI Email Agent**](https://github.com/nadir2609/Email-Agent) | Support inbox that answers itself. Triages new mail, answers real questions from a PDF knowledge base and skips the rest. Runs every 5 minutes on GitHub Actions. | Python, Gmail API, Gemini, embeddings, GitHub Actions |
+| [**AI Research Assistant**](https://github.com/nadir2609/AI-Research-Assistant) | Searches Wikipedia, arXiv and the web in parallel, then writes an answer with citations. CLI, HTTP API and Docker. | Python, asyncio, FastAPI, LLMs, Docker |
+| [**YouTube RAG Chat**](https://github.com/nadir2609/YouTube-Video-AI-Assistant) | Ask questions about any YouTube video and get answers grounded in its transcript. | LangChain, FAISS, Hugging Face, Streamlit, AWS |
+| [**Baku Jobhunt**](https://github.com/nadir2609/baku-jobhunt) | Outreach pipeline: finds IT companies, scrapes HR contacts, de-duplicates, sends a CV and logs every send to an Excel report. | Python, scraping, email automation |
+| [**Policy Map**](https://github.com/nadir2609/Interactive-Insurance-Policy-Mapping-Web-App) | Turns an Excel file of insurance policies into a Google map coloured by sum insured, with a report of addresses that could not be located. | Python, Google Maps API |
+| [**Customer Retention Engine**](https://github.com/nadir2609/Customer-Retention-Engine) | Predicts churn and recommends the smallest change that would keep the customer. | scikit-learn, FastAPI, Streamlit |
+
+More: [Azerbaijani ASR with Whisper](https://github.com/nadir2609/ASR-for-Azerbaijani-Language) · [Smart Meeting Notes](https://github.com/nadir2609/Smart-Meeting-Notes-Generator) · [Virtual Keyboard (computer vision)](https://github.com/nadir2609/Virtual-Keyboard)
 
 ---
 
-## ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+### Tech stack
 
+**AI and LLMs**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Languages and backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Data, infra and automation**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
-## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Let's work together
 
----
+Need an AI feature in your product, or a workflow that runs itself? Get in touch.
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadir-askarov-3b217734b/)
-
----
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nadir-askarov-3b217734b/)
